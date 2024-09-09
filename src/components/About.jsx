@@ -47,14 +47,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-justify text-[17px] max-w-4xl leading-[30px] tracking-normal"
       >
-        I am a passionate and dedicated software developer with a strong
-        foundation in frontend development, complemented by comprehensive
-        knowledge of backend integration. With a B.Tech in Information
-        Technology specializing in the Internet of Things from MITS Gwalior, I
+        I am a passionate and dedicated software engineer with a strong
+        foundation in ML & programming, complemented by comprehensive
+        knowledge of product. With a B.Tech in Information
+        Technology specializing in the Artificial Intelligence and Robotics from MITS Gwalior, I
         have consistently demonstrated my ability to translate complex
         requirements into effective, user-friendly applications. My diverse
         skill set includes proficiency in multiple programming languages and
-        frameworks, enabling me to deliver robust and scalable solutions.
+        analysis, enabling me to deliver robust and scalable solutions.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-20">
